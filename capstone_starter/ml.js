@@ -1,0 +1,1 @@
+body_mapping = {"jacked" : 11, "athletic" : 10, "fit" : 9, "average" : 8, "thin" : 7, "curvy" : 6, "a little extra" : 5, "overweight" : 4, "skinny" : 3, "full figured" : 2, "used up" : 1, "rather not say" : 0}
